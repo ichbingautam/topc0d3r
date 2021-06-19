@@ -3,10 +3,10 @@
 <h2> I'm Shubham Gautam ! </h2>
 
 <p>
-- 👨‍💻 Im a Software Engineer and I love problem solving.
+- 👨‍💻 I'm a Software Engineer and Machine Learning Enthusiast.
 </p>
 <p>
-- 🏃 My mission is to learn and grow! I'll love to contribute to the open-source community.
+- 🏃 I love problem solving. My mission is to learn and grow! I'll love to contribute to the open-source community.
 </p>
  
  **Languages and Tools:**
