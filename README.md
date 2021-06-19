@@ -1,6 +1,6 @@
 
 <h1> Hi there 👋 </h1>
-<h2> I'm Shubham Gautam! </h2>
+<h2> I'm Shubham Gautam ! </h2>
 
 <p>
 - 👨‍💻 Im a Software Engineer and I love problem solving.
