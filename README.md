@@ -4,7 +4,7 @@
 
 <p>
 - 👨‍💻 Im a Software Engineer and I love problem solving.
-- 🏃🏻‍♀️ My mission is to learn and grow! I'll continue to contribute to the open-source community.
+- 🏃🏻‍♀️ My mission is to learn and grow! I'll love to contribute to the open-source community.
 </p>
  
  **Languages and Tools:**
