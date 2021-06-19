@@ -24,7 +24,7 @@
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/tensorflow/tensorflow.png"></code>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/scikit-learn/scikit-learn.png"></code>
 
-<h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My GitHub Stats.... </h2>
+<h2>🤟 My GitHub Stats.... </h2>
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=topc0d3r&show_icons=true&theme=radical" alt="gautamshubham" /></p>
 
