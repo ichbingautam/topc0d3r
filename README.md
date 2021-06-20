@@ -1,6 +1,6 @@
 
 <h1> Hi there 👋 </h1>
-<h2> I'm Shubham Gautam ! </h2>
+<h2> I'm Shubham Gautam! </h2>
 
 <p>
 - 👨‍💻 I'm a Software Engineer and Machine Learning Enthusiast.
@@ -25,7 +25,7 @@
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/tensorflow/tensorflow.png"></code>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/scikit-learn/scikit-learn.png"></code>
 
-<h2>🤟 My GitHub Stats.... </h2>
+<h2>🤟 My GitHub Stats... </h2>
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=topc0d3r&show_icons=true&theme=radical" alt="gautamshubham" /></p>
 
